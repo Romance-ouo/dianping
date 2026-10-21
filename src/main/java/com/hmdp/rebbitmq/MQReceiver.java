@@ -27,7 +27,6 @@ public class MQReceiver {
     /**
      * 接收秒杀信息并下单
      * @param msg
-     * 测试Git
      */
     @Transactional
     @RabbitListener(queues = RabbitMQTopicConfig.QUEUE)
