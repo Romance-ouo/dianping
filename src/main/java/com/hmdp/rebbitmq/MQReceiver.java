@@ -14,6 +14,7 @@ import javax.annotation.Resource;
 
 /**
  * 消息消费者
+ * Git测试
  */
 @Slf4j
 @Service
